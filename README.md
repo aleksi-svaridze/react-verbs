@@ -1,2 +1,2 @@
 # App made using React Js
-[Visit project url:](https://react-irregular-verbs.netlify.app/)
+[Visit project url: react-irregular-verbs.netlify.app](https://react-irregular-verbs.netlify.app/)
